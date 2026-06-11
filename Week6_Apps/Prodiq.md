@@ -229,5 +229,3 @@ Create an AI-powered decision support platform that helps product teams move fro
 
 Built by Jeseena Parveen K
 LinkedIn: https://www.linkedin.com/in/jeseena-parveen-k/ 
-
-GitHub: [Your GitHub]
