@@ -158,7 +158,7 @@ Output:
 
 Add screenshot here:
 
-![Home Screen](screenshots/home-screen.png)
+<img width="1133" height="761" alt="image" src="https://github.com/user-attachments/assets/51811c4f-c5f7-475e-80d7-b63be459c2b6" />
 
 ### Analysis Results
 
