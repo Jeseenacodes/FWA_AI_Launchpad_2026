@@ -158,19 +158,28 @@ Output:
 
 Add screenshot here:
 
-<img width="1133" height="761" alt="image" src="https://github.com/user-attachments/assets/51811c4f-c5f7-475e-80d7-b63be459c2b6" />
+<img width="782" height="912" alt="image" src="https://github.com/user-attachments/assets/44126a7c-c8a6-4156-93e3-6ba3e5d7e0fb" />
+
+<img width="787" height="915" alt="image" src="https://github.com/user-attachments/assets/2d590b9e-b427-4d78-9b9f-9316d1a82d3f" />
 
 ### Analysis Results
 
 Add screenshot here:
 
-![Analysis Results](screenshots/analysis-results.png)
+<img width="594" height="501" alt="image" src="https://github.com/user-attachments/assets/618cb6a2-971c-4542-bb2a-22e06c904834" />
 
 ### Opportunity Ranking
 
 Add screenshot here:
 
-![Opportunity Ranking](screenshots/opportunity-ranking.png)
+<img width="597" height="402" alt="image" src="https://github.com/user-attachments/assets/7911fe43-046b-4a55-9f7a-019ba2ff1d66" />
+
+<img width="588" height="695" alt="image" src="https://github.com/user-attachments/assets/635ac108-87ca-4247-999e-214041a5846c" />
+
+<img width="582" height="758" alt="image" src="https://github.com/user-attachments/assets/bed89533-31a2-4ba8-a5d1-0f8abb7627c4" />
+
+<img width="580" height="399" alt="image" src="https://github.com/user-attachments/assets/400b7570-b989-4fce-970d-f9b773b903c3" />
+
 
 ---
 
