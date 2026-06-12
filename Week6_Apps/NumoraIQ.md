@@ -227,19 +227,19 @@ Add screenshots here after deployment.
 
 ### Dashboard
 
-<img width="100%" alt="Dashboard Screenshot" src="docs/dashboard.png">
+<img width="1504" height="918" alt="image" src="https://github.com/user-attachments/assets/1231f063-240c-40cd-a8f7-bff6ce087ebe" />
 
 ### Projects
 
-<img width="100%" alt="Projects Screenshot" src="docs/projects.png">
+<img width="1504" height="921" alt="image" src="https://github.com/user-attachments/assets/c8e675c2-b3bb-4c7c-a282-3d58b203f885" />
 
 ### Analytics
 
-<img width="100%" alt="Analytics Screenshot" src="docs/analytics.png">
+<img width="1359" height="923" alt="image" src="https://github.com/user-attachments/assets/ec74a1fc-232c-4bf5-a1e9-55407e0c1b8b" />
 
 ### AI Planner
 
-<img width="100%" alt="AI Planner Screenshot" src="docs/ai-planner.png">
+<img width="1365" height="927" alt="image" src="https://github.com/user-attachments/assets/88d2fff1-de66-4728-896f-3923537e5a9c" />
 
 ---
 
