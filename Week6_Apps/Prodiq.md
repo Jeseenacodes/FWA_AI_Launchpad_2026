@@ -179,11 +179,7 @@ Output:
 
 ## Project Inspiration
 
-This project was inspired by challenges encountered while building personal products such as Tamilingo and Little Noories.
-
-While collecting user feedback was straightforward, determining which improvements would create the greatest impact was significantly harder.
-
-Product Discovery Assistant was created to provide a structured, AI-powered approach to product discovery and prioritization.
+This project was inspired by challenges encountered while building personal products such as Tamilingo and Little Noories. While collecting user feedback was straightforward, determining which improvements would create the greatest impact was significantly harder. Product Discovery Assistant was created to provide a structured, AI-powered approach to product discovery and prioritization.
 
 ---
 
