@@ -3,6 +3,7 @@
 ## Overview
 
 Founder Command Center is an AI-powered agent designed to help founders organize projects, identify priorities, track progress, and make better decisions. It acts as a daily operating system that transforms scattered information into actionable insights.
+<img width="3152" height="1137" alt="Founder Command Center Agent" src="https://github.com/user-attachments/assets/f44c5e66-6280-4e67-9991-a8934cfc6c99" />
 
 ## Problem
 
