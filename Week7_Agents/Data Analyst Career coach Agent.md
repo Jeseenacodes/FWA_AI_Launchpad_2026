@@ -1,6 +1,7 @@
 # 📊 Data Analyst Career Coach Agent
 
 > An AI-powered career coaching agent built with **Relevance AI** to help aspiring data analysts assess their skills, identify gaps, improve their resumes, and create actionable career development plans.
+<img width="3152" height="1137" alt="Data Analyst Career Coach Agent" src="https://github.com/user-attachments/assets/726fb7d3-57a7-40fb-9847-576f68dd31b9" />
 
 ---
 
