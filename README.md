@@ -13,7 +13,7 @@ Each week's project demonstrates hands-on experience with **AI assistants, appli
 - Designed structured prompts, reusable workflows, and knowledge-driven conversations
 - Explored prompt engineering, context management, and user-centric assistant design
 - Created assistants tailored for content creation, business support, and decision-making
-- [https://github.com/](https://github.com/Jeseenacodes/AI_Launchpad_2026/tree/main/Week5_Ai_assistants) 
+- [Week 5](https://github.com/Jeseenacodes/AI_Launchpad_2026/tree/main/Week5_Ai_assistants) 
 
 </details>
 
@@ -26,7 +26,7 @@ Each week's project demonstrates hands-on experience with **AI assistants, appli
 - Designed intuitive user interfaces and integrated AI capabilities into real products
 - Connected databases, APIs, and automation workflows to deliver functional applications
 - Focused on rapid prototyping, user experience, and scalable product design
-- [https://github.com/](https://github.com/Jeseenacodes/AI_Launchpad_2026/tree/main/Week6_Apps) 
+- [Week 6](https://github.com/Jeseenacodes/AI_Launchpad_2026/tree/main/Week6_Apps) 
 
 </details>
 
@@ -39,7 +39,7 @@ Each week's project demonstrates hands-on experience with **AI assistants, appli
 - Built agent workflows with memory, tool usage, and decision-making capabilities
 - Automated multi-step processes using AI-powered reasoning and external integrations
 - Applied agentic AI concepts to solve practical business and productivity challenges
-- [https://github.com/](https://github.com/Jeseenacodes/AI_Launchpad_2026/tree/main/Week7_Agents)
+- [Week 7](https://github.com/Jeseenacodes/AI_Launchpad_2026/tree/main/Week7_Agents)
 
 </details>
 
@@ -52,6 +52,6 @@ Each week's project demonstrates hands-on experience with **AI assistants, appli
 - Designed agent communication, orchestration, and task delegation workflows
 - Created scalable architectures for complex business processes using multiple AI agents
 - Documented system designs with workflow diagrams, agent responsibilities, and interaction patterns
-- [https://github.com/](https://github.com/Jeseenacodes/AI_Launchpad_2026/tree/main/Week8_Multi_Agents_Design)
+- [Week 8](https://github.com/Jeseenacodes/AI_Launchpad_2026/tree/main/Week8_Multi_Agents_Design)
 
 </details>
