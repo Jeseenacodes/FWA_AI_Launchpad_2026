@@ -18,7 +18,7 @@ The workflow:
 * runs multiple AI marketing specialists in parallel,
 * merges their outputs,
 * and generates a structured executive marketing plan with actionable milestones.
-<img width="1536" height="1024" alt="Tamilingo N8n" src="https://github.com/user-attachments/assets/77852561-1d2e-4a3a-b121-3e62e58babe0" />
+<img width="1083" height="384" alt="Screenshot 2026-05-15 165118" src="https://github.com/user-attachments/assets/680122a0-debb-4a89-afbb-b8b41dd53293" />
 
 ---
 
