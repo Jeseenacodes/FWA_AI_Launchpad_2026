@@ -1,4 +1,3 @@
-<p align="center">
 
 <img width="2048" height="768" alt="Rihla Hero banner" src="https://github.com/user-attachments/assets/4cb20b57-ed92-47dd-a176-4253f563aa86" />
 
@@ -211,7 +210,12 @@ Replace the placeholders below with actual screenshots.
 
 ```
 [ Add Dashboard Screenshot Here ]
+
+
 ```
+<img width="1764" height="922" alt="image" src="https://github.com/user-attachments/assets/435c2035-2366-403b-bf01-ade93c123061" />
+
+<p align="center">
 
 ---
 
@@ -220,6 +224,17 @@ Replace the placeholders below with actual screenshots.
 ```
 [ Add Timeline Screenshot Here ]
 ```
+<img width="1744" height="931" alt="image" src="https://github.com/user-attachments/assets/c7450e9f-d4e2-4073-b9e9-f61ac52f546c" />
+
+<img width="1504" height="859" alt="image" src="https://github.com/user-attachments/assets/b819e447-b3f1-4570-95b2-9b97c188366f" />
+
+<img width="1765" height="879" alt="image" src="https://github.com/user-attachments/assets/8da779bc-6b93-49c7-99ae-dabbd58968ee" />
+
+<img width="1817" height="863" alt="image" src="https://github.com/user-attachments/assets/d4feb4eb-e55c-4f9f-a06f-e7347e6158af" />
+
+<img width="1767" height="868" alt="image" src="https://github.com/user-attachments/assets/f5aaf41c-358a-4a55-bbe5-97f4d064bd9a" />
+
+<img width="1635" height="901" alt="image" src="https://github.com/user-attachments/assets/6ca6fd95-d87d-44ea-9e88-75f57ae460a5" />
 
 ---
 
@@ -227,15 +242,31 @@ Replace the placeholders below with actual screenshots.
 
 ```
 [ Add AI Assistant Screenshot Here ]
-```
 
+```
+<img width="1631" height="761" alt="image" src="https://github.com/user-attachments/assets/c2e2ca7d-81f5-430d-8534-b26908481990" />
+
+<img width="1145" height="482" alt="image" src="https://github.com/user-attachments/assets/f29914cc-05ee-4d04-bac0-3073c6e5af92" />
+
+<img width="1644" height="759" alt="image" src="https://github.com/user-attachments/assets/8fdeaa38-fcd8-4eb2-a2d5-496143f6e0c9" />
+
+<img width="1640" height="774" alt="image" src="https://github.com/user-attachments/assets/e6735f94-155c-4270-8743-28f88cf98477" />
+
+<img width="1135" height="414" alt="image" src="https://github.com/user-attachments/assets/969011b8-41c9-4c2f-abb2-3afd00b99b70" />
+
+<img width="1125" height="567" alt="image" src="https://github.com/user-attachments/assets/1fb9be1b-6f83-4465-af5c-7e0e48b6f227" />
+
+<img width="1634" height="779" alt="image" src="https://github.com/user-attachments/assets/3c6bbd0f-3f12-4db1-b84b-4197ecd8ef2d" />
 ---
 
 ## Appointment Companion
 
 ```
 [ Add Appointment Companion Screenshot Here ]
+
+
 ```
+<img width="1639" height="792" alt="image" src="https://github.com/user-attachments/assets/279cae74-e9dd-437f-b8ec-869445958e04" />
 
 ---
 
@@ -243,7 +274,18 @@ Replace the placeholders below with actual screenshots.
 
 ```
 [ Add Health Insights Screenshot Here ]
+
+
 ```
+<img width="1644" height="759" alt="image" src="https://github.com/user-attachments/assets/8fdeaa38-fcd8-4eb2-a2d5-496143f6e0c9" />
+
+<img width="1640" height="774" alt="image" src="https://github.com/user-attachments/assets/e6735f94-155c-4270-8743-28f88cf98477" />
+
+<img width="1135" height="414" alt="image" src="https://github.com/user-attachments/assets/969011b8-41c9-4c2f-abb2-3afd00b99b70" />
+
+<img width="1125" height="567" alt="image" src="https://github.com/user-attachments/assets/1fb9be1b-6f83-4465-af5c-7e0e48b6f227" />
+
+<img width="1634" height="779" alt="image" src="https://github.com/user-attachments/assets/3c6bbd0f-3f12-4db1-b84b-4197ecd8ef2d" />
 
 ---
 
