@@ -533,13 +533,10 @@ assets/screenshots/insights.png
 
 **Manage account preferences and notifications**
 
-```
-TODO:
-Insert Settings Screenshot
+<img width="1544" height="940" alt="image" src="https://github.com/user-attachments/assets/c81bd664-05fa-4103-b78a-a7828af70417" />
 
-File:
-assets/screenshots/settings.png
-```
+<img width="1038" height="767" alt="image" src="https://github.com/user-attachments/assets/5e74fb00-4047-483a-8660-e682623a4479" />
+
 
 ---
 
@@ -563,14 +560,6 @@ https://rihlaplus.lovable.app/
 
 ```
 https://youtube.com/your-demo
-```
-
----
-
-### Loom Demo
-
-```
-https://loom.com/share/...
 ```
 
 ---
