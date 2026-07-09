@@ -510,7 +510,7 @@ Rihla+ follows a modern cloud-native architecture built around React, Supabase, 
 
 ---
 
-## 🏛 High-Level Architecture
+## High-Level Architecture
 
 ```text
                           ┌──────────────────────────┐
@@ -542,7 +542,7 @@ Rihla+ follows a modern cloud-native architecture built around React, Supabase, 
 
 ---
 
-# ⚙ Architecture Principles
+# Architecture Principles
 
 The application follows several core architectural principles:
 
