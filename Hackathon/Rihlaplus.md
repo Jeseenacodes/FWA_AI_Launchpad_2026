@@ -359,6 +359,9 @@ Receive reminders for:
 
 # Product Gallery
 
+## Landing Page
+<img width="1382" height="897" alt="1 Landing" src="https://github.com/user-attachments/assets/106f0faf-0375-4c5b-bd46-d3f7fc7f8272" />
+
 ## Dashboard
 
 **Overview of the complete healthcare workspace**
