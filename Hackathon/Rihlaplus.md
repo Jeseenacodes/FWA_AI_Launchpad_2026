@@ -287,7 +287,7 @@ Example:
 ```
 ▶ Watch Demo
 
-https://your-demo-link.com
+https://demolink
 ```
 
 ---
@@ -322,6 +322,7 @@ https://your-demo-link.com
 *Helping people navigate their healthcare journey with confidence through thoughtful design and responsible AI.*
 
 </p>
+
 
 <!-- ========================================================= -->
 <!--                     FEATURES                              -->
