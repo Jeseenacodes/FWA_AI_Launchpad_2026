@@ -240,8 +240,5 @@ A working Lesson QA Automation system that:
 * Saves QA feedback to Google Sheets
 * Supports continuous improvement for Little Noories, Tamilingo, and Little Readers
 
-```
-```
-
 
 
