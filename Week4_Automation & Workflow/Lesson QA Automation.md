@@ -8,9 +8,6 @@ The automation reviews new lesson drafts for my educational apps, Little Noories
 
 This workflow helps streamline curriculum review and quality assurance across multiple learning experiences designed for children.
 
-<img width="1149" height="1369" alt="ChatGPT Image May 12, 2026, 08_42_55 PM" src="https://github.com/user-attachments/assets/babf9f8d-6aae-4205-a4e7-41ff21f23fab" />
-
-
 <img width="1536" height="1024" alt="Lesson QA Automation" src="https://github.com/user-attachments/assets/d4d4768a-e43f-438e-972d-0fc364775704" />
 
 ---
@@ -58,6 +55,7 @@ QA Results Saved to Google Sheets
         ↓
 Lessons Can Be Tracked and Improved
 ```
+<img width="776" height="621" alt="Screenshot 2026-05-12 204032" src="https://github.com/user-attachments/assets/a91997ba-fdf1-4a3b-8d80-64b406c9ebe6" />
 
 ---
 
@@ -77,7 +75,7 @@ The form collects:
 * Quiz Questions
 * Activity Type
 
-<img width="314" height="623" alt="image" src="https://github.com/user-attachments/assets/9dad9865-a9a2-4add-9500-626306ba1722" />
+  <img width="449" height="893" alt="image" src="https://github.com/user-attachments/assets/34c15ccf-ae64-4efa-a2a1-56ee89ba35c8" />
 
 ---
 
@@ -104,7 +102,8 @@ The sheet includes:
 * Improvement Suggestions
 * Status
 
-<img width="1202" height="632" alt="image" src="https://github.com/user-attachments/assets/51806d07-7671-4e9a-a42c-e5b5e1fbfb69" />
+<img width="1202" height="632" alt="Screenshot 2026-05-12 203940" src="https://github.com/user-attachments/assets/8c7794f4-5c6b-4736-b2bc-f4477b12d70c" />
+
 
 ---
 
@@ -121,7 +120,7 @@ Actions:
 * AI reviews the lesson draft
 * Google Sheets creates or updates a QA row
 
-<img width="776" height="621" alt="image" src="https://github.com/user-attachments/assets/7145e2bd-cc09-4636-9de2-3350a6cdc22e" />
+<img width="776" height="621" alt="Screenshot 2026-05-12 204032" src="https://github.com/user-attachments/assets/e5556027-3418-4cee-95c3-f4ebcdfcc698" />
 
 ---
 
@@ -148,8 +147,9 @@ Evaluate the lesson using these categories:
 
 Keep the feedback concise, teacher-friendly, and actionable.
 ```
+<img width="1091" height="774" alt="Screenshot 2026-05-12 200958" src="https://github.com/user-attachments/assets/6ade8a76-9435-4f83-aa25-cdb9857f72aa" />
 
-<img width="1091" height="774" alt="Screenshot 2026-05-12 200958" src="https://github.com/user-attachments/assets/3a69a9c7-3b3b-4533-8dd8-101633b5c417" />
+<img width="1281" height="885" alt="Screenshot 2026-05-12 201033" src="https://github.com/user-attachments/assets/93c054fb-0855-445d-bd1d-13ac17aab350" />
 
 ---
 
@@ -168,7 +168,7 @@ The automation stores:
 * Improvement Suggestions
 * Status
 
-<img width="1676" height="729" alt="image" src="https://github.com/user-attachments/assets/2c133af9-006a-4864-a2c2-7c5ac7f51559" />
+<img width="1676" height="729" alt="Screenshot 2026-05-12 204153" src="https://github.com/user-attachments/assets/0e56811f-556f-4b52-ab79-d277934ef8f9" />
 
 ---
 
